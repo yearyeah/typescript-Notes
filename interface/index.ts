@@ -9,7 +9,7 @@ interface User {
 
 //定义对象的类型
 
-export default function mainInterface() {
+export default function interfaceMain() {
   console.log('---------- interface star ----------');
 
   //【h1】 类接口
